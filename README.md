@@ -7,8 +7,6 @@
 **A touchscreen jukebox for cabinets, bartops and kiosks.**
 Local music, video clips, web radios, YouTube and karaoke — on one screen or two.
 
-[![Latest release](https://img.shields.io/github/v/release/Didtho/jukebox-cab?label=latest&color=blue)](https://github.com/Didtho/jukebox-cab/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Didtho/jukebox-cab/total?color=success)](https://github.com/Didtho/jukebox-cab/releases)
 [![Platforms](https://img.shields.io/badge/Windows%2010%2F11-%20%7C%20Raspberry%20Pi%204-lightgrey)](#what-you-need)
 [![Free of charge](https://img.shields.io/badge/price-free-success)](LICENSE)
 
@@ -72,13 +70,12 @@ recording to MP3 or FLAC.
 **Four languages.** French, English, Spanish and Italian, in the application and
 in the help guides.
 
-<div align="center">
-<img src="images/grille-jukebox45.webp" alt="The 45 rpm skin: tracks shown as record labels behind a lit glass panel" width="420">
-<img src="images/lecture.webp" alt="The player bar with its dot-matrix display and VU meter" width="420">
-<br>
-<img src="images/playlist.webp" alt="The playlist panel sliding over the library" width="420">
-<img src="images/webradios.webp" alt="The web radio screen" width="420">
-</div>
+| | |
+|:---:|:---:|
+| <img src="images/grille-jukebox45.webp" alt="The 45 rpm skin: tracks shown as record labels behind a lit glass panel"> | <img src="images/lecture.webp" alt="The player bar with its dot-matrix display and VU meter"> |
+| *Tracks as 45 rpm labels, behind lit glass* | *The player bar: dot-matrix display and VU meter* |
+| <img src="images/playlist.webp" alt="The playlist panel sliding over the library"> | <img src="images/webradios.webp" alt="The web radio screen"> |
+| *The playlist, sliding over the library* | *Web radios* |
 
 ## What you need
 

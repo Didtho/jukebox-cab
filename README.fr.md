@@ -7,8 +7,6 @@
 **Un jukebox tactile pour bornes, bartops et kiosques.**
 Musique locale, clips vidéo, web radios, YouTube et karaoké — sur un écran ou deux.
 
-[![Dernière version](https://img.shields.io/github/v/release/Didtho/jukebox-cab?label=version&color=blue)](https://github.com/Didtho/jukebox-cab/releases/latest)
-[![Téléchargements](https://img.shields.io/github/downloads/Didtho/jukebox-cab/total?color=success)](https://github.com/Didtho/jukebox-cab/releases)
 [![Plateformes](https://img.shields.io/badge/Windows%2010%2F11-%20%7C%20Raspberry%20Pi%204-lightgrey)](#ce-quil-vous-faut)
 [![Gratuit](https://img.shields.io/badge/prix-gratuit-success)](LICENSE)
 
@@ -77,13 +75,12 @@ enregistrement de session en MP3 ou FLAC.
 **Quatre langues.** Français, anglais, espagnol et italien, dans l'application
 comme dans l'aide.
 
-<div align="center">
-<img src="images/grille-jukebox45.webp" alt="L'habillage 45 tours : les titres en étiquettes de disque derrière une vitre éclairée" width="420">
-<img src="images/lecture.webp" alt="La barre du lecteur, son afficheur à matrice de points et son vumètre" width="420">
-<br>
-<img src="images/playlist.webp" alt="Le panneau de playlist glissant par-dessus la bibliothèque" width="420">
-<img src="images/webradios.webp" alt="L'écran des web radios" width="420">
-</div>
+| | |
+|:---:|:---:|
+| <img src="images/grille-jukebox45.webp" alt="L'habillage 45 tours : les titres en étiquettes de disque derrière une vitre éclairée"> | <img src="images/lecture.webp" alt="La barre du lecteur, son afficheur à matrice de points et son vumètre"> |
+| *Les titres en étiquettes de 45 tours, derrière une vitre éclairée* | *La barre du lecteur : afficheur à matrice de points et vumètre* |
+| <img src="images/playlist.webp" alt="Le panneau de playlist glissant par-dessus la bibliothèque"> | <img src="images/webradios.webp" alt="L'écran des web radios"> |
+| *La playlist, glissant par-dessus la bibliothèque* | *Les web radios* |
 
 ## Ce qu'il vous faut
 
