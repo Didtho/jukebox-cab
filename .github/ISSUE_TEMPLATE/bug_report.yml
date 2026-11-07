@@ -1,0 +1,97 @@
+name: Bug report
+description: Something does not work as it should
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time. Two things make a report quick to act on:
+        **the version you are running** and **what you saw on screen**. Everything
+        else below is optional.
+
+        Looking for help rather than reporting a fault? The
+        [guides](https://www.jukebox-cab.fr/aide) and the
+        [Facebook group](https://www.facebook.com/groups/JukeBoxCab) are the right
+        place, and you will get an answer faster there.
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: >
+        Shown at the top left of the main screen, next to the name. Please give the
+        exact number — a fault often turns out to be already fixed in a later
+        version.
+      placeholder: "1.18.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: System
+      options:
+        - Windows 11
+        - Windows 10
+        - Raspberry Pi 4
+        - Raspberry Pi 5
+        - Other Linux
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happens
+    attributes:
+      label: What happens
+      description: >
+        What you did, what you expected, and what you got instead. A photo or a
+        screenshot is worth a long description — you can drop one straight into
+        this box.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce it
+      description: >
+        If it happens every time, the steps. If it only happened once, say so —
+        that is useful to know too.
+      placeholder: |
+        1. Start the application
+        2. Open an artist
+        3. …
+    validations:
+      required: false
+
+  - type: dropdown
+    id: screens
+    attributes:
+      label: How many screens
+      description: A good number of faults only show up on one screen, or only on two.
+      options:
+        - One screen
+        - Two screens
+        - Not relevant
+    validations:
+      required: false
+
+  - type: textarea
+    id: library
+    attributes:
+      label: Your library
+      description: >
+        Roughly how many tracks, and where they live — local disk, external drive,
+        NAS. Mostly music, mostly video clips, or both.
+      placeholder: "About 4 000 tracks on an external USB drive, a hundred or so video clips"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **If the fault is visual** (something drawn wrong, a black tile, a button
+        you cannot reach), a photo of the screen taken with a phone is often more
+        useful than a screenshot: it shows what the display really does.

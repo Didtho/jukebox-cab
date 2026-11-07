@@ -1,0 +1,18 @@
+# Les signalements libres sont desactives : tout passe par le formulaire de bug,
+# qui exige la version et le systeme. Les QUESTIONS sont renvoyees vers le groupe
+# Facebook et vers l'aide, ou elles trouvent reponse plus vite -- c'est ce qui
+# garde le volume des signalements tenable pour une seule personne.
+blank_issues_enabled: false
+contact_links:
+  - name: Question about how to use it
+    url: https://www.facebook.com/groups/JukeBoxCab
+    about: The community group — the fastest way to get an answer, and the place to show your cabinet.
+  - name: Step-by-step guides
+    url: https://www.jukebox-cab.fr/aide
+    about: Library, playlists, grid, karaoke, CD import, countdown — with screenshots, in four languages.
+  - name: Installing for the first time
+    url: https://www.jukebox-cab.fr/premiere-installation
+    about: Including the Windows "unknown publisher" warning and how to lay out your music folders.
+  - name: Raspberry Pi
+    url: https://www.jukebox-cab.fr/raspberry-pi
+    about: The ready-to-flash image, dual screen, audio output selection.

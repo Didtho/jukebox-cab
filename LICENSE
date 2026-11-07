@@ -1,0 +1,161 @@
+﻿JUKEBOX-CAB — LICENCE D'UTILISATION
+Copyright © 2025-2026 Didier THOMAS. Tous droits réservés.
+Version du 6 novembre 2026.
+
+
+1. GRATUITÉ
+
+JukeBox-Cab est gratuit. Vous pouvez l'installer et l'utiliser sans limite
+de durée ni de nombre de postes, chez vous comme dans un lieu ouvert au
+public (bar, salle, borne d'arcade).
+
+
+2. COPIE ET DIFFUSION
+
+Vous pouvez copier et transmettre le programme d'installation tel qu'il
+vous a été fourni, sans le modifier et sans contrepartie financière.
+Le vendre, le louer ou l'intégrer à une offre payante demande l'accord
+écrit de l'auteur.
+
+
+3. CE QUE CETTE LICENCE NE PERMET PAS
+
+  - modifier, décompiler, désassembler ou extraire des parties du
+    programme ;
+  - retirer ou altérer les mentions d'auteur ;
+  - distribuer une version modifiée.
+
+
+4. CODE SOURCE
+
+Le code source de JukeBox-Cab n'est pas diffusé. JukeBox-Cab est un
+logiciel GRATUIT, ce qui n'est pas la même chose qu'un logiciel LIBRE :
+les libertés d'étudier, de modifier et de redistribuer des versions
+dérivées ne sont pas accordées.
+
+
+5. COMPOSANTS TIERS
+
+Le programme d'installation contient des logiciels écrits par d'autres,
+qui restent soumis à LEUR propre licence et non à celle-ci. Leur code
+source est disponible auprès de leurs auteurs :
+
+  FFmpeg — version N-121755-g41a9c6ec5f du 14 novembre 2025
+    GNU General Public License version 3 (compilé avec --enable-gpl
+    --enable-version3). Sources : https://ffmpeg.org/download.html
+
+  fre:ac — extraction de CD audio
+    GNU General Public License version 2. Le texte complet est livré
+    dans le fichier COPYING à côté du programme.
+    Sources : https://www.freac.org/
+
+  yt-dlp — version 2026.10.26
+    Domaine public (Unlicense).
+    Sources : https://github.com/yt-dlp/yt-dlp
+
+  Node.js (version portable)
+    Licence MIT. Sources : https://nodejs.org/
+
+Ces programmes sont appelés par JukeBox-Cab comme des utilitaires
+séparés ; ils ne sont pas incorporés à son code.
+
+
+6. ABSENCE DE GARANTIE
+
+Le programme est fourni « en l'état », sans garantie d'aucune sorte,
+explicite ou implicite. L'auteur ne peut être tenu responsable d'un
+dommage, d'une perte de données ou d'une interruption d'activité
+résultant de son utilisation.
+
+
+7. ACCEPTATION
+
+Installer ou utiliser JukeBox-Cab vaut acceptation de la présente
+licence.
+
+
+Contact : didtech81500@gmail.com
+Site     : https://www.jukebox-cab.fr/
+
+
+================================================================
+
+
+JUKEBOX-CAB — LICENCE AGREEMENT (English translation)
+Copyright © 2025-2026 Didier THOMAS. All rights reserved.
+Dated 6 November 2026.
+
+In case of discrepancy, the French text above prevails.
+
+
+1. FREE OF CHARGE
+
+JukeBox-Cab is free. You may install and use it with no time limit and
+on any number of machines, at home as well as in a venue open to the
+public (bar, hall, arcade cabinet).
+
+
+2. COPYING AND SHARING
+
+You may copy and pass on the installer exactly as you received it,
+without modifying it and without charging for it. Selling it, renting
+it or including it in a paid offering requires the author's written
+permission.
+
+
+3. WHAT THIS LICENCE DOES NOT ALLOW
+
+  - modifying, decompiling, disassembling or extracting parts of the
+    program;
+  - removing or altering the authorship notices;
+  - distributing a modified version.
+
+
+4. SOURCE CODE
+
+The source code of JukeBox-Cab is not published. JukeBox-Cab is FREE
+SOFTWARE in the sense of free of charge, which is not the same as OPEN
+SOURCE: the freedoms to study, modify and redistribute derived versions
+are not granted.
+
+
+5. THIRD-PARTY COMPONENTS
+
+The installer contains software written by others, which remains under
+ITS own licence and not this one. Their source code is available from
+their authors:
+
+  FFmpeg — build N-121755-g41a9c6ec5f dated 14 November 2025
+    GNU General Public License version 3 (built with --enable-gpl
+    --enable-version3). Source: https://ffmpeg.org/download.html
+
+  fre:ac — audio CD ripping
+    GNU General Public License version 2. The full text ships in the
+    COPYING file next to the program.
+    Source: https://www.freac.org/
+
+  yt-dlp — version 2026.10.26
+    Public domain (Unlicense).
+    Source: https://github.com/yt-dlp/yt-dlp
+
+  Node.js (portable build)
+    MIT licence. Source: https://nodejs.org/
+
+These programs are invoked by JukeBox-Cab as separate utilities; they
+are not incorporated into its code.
+
+
+6. NO WARRANTY
+
+The program is provided "as is", without warranty of any kind, express
+or implied. The author shall not be held liable for any damage, loss of
+data or business interruption arising from its use.
+
+
+7. ACCEPTANCE
+
+Installing or using JukeBox-Cab constitutes acceptance of this licence.
+
+
+Contact: didtech81500@gmail.com
+Website: https://www.jukebox-cab.fr/
