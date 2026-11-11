@@ -6,10 +6,25 @@ back to version 1.0.2, is on
 [jukebox-cab.fr/nouveautes](https://www.jukebox-cab.fr/nouveautes) in four
 languages.
 
-## 1.18.0 — 7 November 2026
+## 1.18.0 — 11 November 2026
 
 ### Added
 
+- **Choose what fills the screen while a song plays.** On a cabinet with a
+  single screen the library simply stayed there. Four animations are now
+  offered, and you pick one: **45 rpm turntable** (the disc change played in
+  full, then the platter spins with the cover as its label), **cover on
+  vinyl**, **dot-matrix board** (artist and title scrolling in large dotted
+  letters) and **wall of covers**. Each has a Hide button, and none of them
+  takes over the screen on the first song of a run — that is when you are
+  still filling the queue.
+- **The queue as a wall of covers.** The playing track takes four tiles and
+  carries its name, the rest follow in playing order. Touch a cover to play
+  it; tracks sharing the same artwork are grouped under one tile that unfolds
+  into its titles.
+- **The grid shows covers edge to edge.** A sixth tile shape, and the new
+  default: the artwork fills its tile and the name sits over it.
+- **A What's new screen** after an update, shown once, listing what changed.
 - **Settings completely rethought.** Thirteen families listed down the left
   instead of collapsed sections, a search box at the top, and every setting
   explained under its own label. Previously you arrived on a page where nothing
